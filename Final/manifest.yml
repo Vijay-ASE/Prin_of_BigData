@@ -1,0 +1,8 @@
+applications:
+- path: org.apache.spark.war
+  memory: 1536M
+  instances: 1
+  domain: mybluemix.net
+  name: ipl9pb2016
+  host: ipl9pb2016
+  disk_quota: 1536M
